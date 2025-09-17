@@ -4,6 +4,7 @@
 
 
 ![Main Page](images/mainpage.png)
+
 StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
@@ -128,6 +129,7 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 3. Start the React development server: `npm start`
 
 Access the application in your browser at `http://localhost:3000`.
+
 
 
 
